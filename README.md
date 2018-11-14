@@ -1,6 +1,9 @@
 # Wordpress Blank Theme with experiment on Guttenburg editor
+I am sicked with many wp theme developer keep doing their own things ignoring wordpress codex. 
+This theme is developed according wordpress best practice to ensure the most scalibility and ease of use to content editor and other developers to modify and updated theme for the future usage.<br>
+Feel free to leave me your feedback and suggestion.<br>
 Minimal theme... This theme is still under development by Cho
-This is a basic blank wordpress theme implementing wordpress best practice with slider ready and responsive menu as well as font icon with fontello.<br>
+This is a basic blank wordpress theme implementing wordpress <b>best practice<b> with slider ready and responsive menu as well as equipped with icon from fontello.<br>
 <br>
 Create by http://pisake.com<br>
 <br>
