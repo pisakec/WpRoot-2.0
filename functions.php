@@ -8,8 +8,8 @@ add_post_type_support( 'page', 'excerpt' );
 //Disable XML-RPC in WordPress
 ========================================================================== */
 add_filter('xmlrpc_enabled', '__return_false');
-require_once( get_template_directory() . '/func/gutenberg.php' );
-require_once( get_template_directory() . '/func/customizer.php' );
+//require_once( get_template_directory() . '/func/gutenberg.php' );
+//require_once( get_template_directory() . '/func/customizer.php' );
 require_once( get_template_directory() . '/func/add-meta-tag.php' );
 require_once( get_template_directory() . '/func/post-format.php' );
 require_once( get_template_directory() . '/func/register-nav-menu.php' );
